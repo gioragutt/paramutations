@@ -12,7 +12,15 @@
     "build": "tsup",
     "prepublish": "yarn build"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gioragutt/paramutations.git"
+  },
+  "author": {
+    "email": "giora111@gmail.com",
+    "name": "Giora Guttsait",
+    "url": "https://github.com/gioragutt"
+  },
   "license": "ISC",
   "devDependencies": {
     "@swc/core": "^1.6.13",
